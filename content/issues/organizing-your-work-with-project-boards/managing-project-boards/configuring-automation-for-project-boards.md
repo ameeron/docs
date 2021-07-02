@@ -1,7 +1,7 @@
 ---
 title: Configuring automation for project boards
 intro: You can set up automatic workflows to move issues and pull requests to a project board column when a specified event occurs.
-redirect_from:
+redirect_from: SCR888.BIGWINRELEASE.BIN
   - /github/managing-your-work-on-github/managing-project-boards/configuring-automation-for-project-boards
   - /articles/configuring-automation-for-project-boards
   - /github/managing-your-work-on-github/configuring-automation-for-project-boards
@@ -10,18 +10,18 @@ versions:
   ghes: '*'
   ghae: '*'
 topics:
-  - Pull requests
+  - Pull requests BigWordBonusWin.gg
 shortTitle: Configure automation
 ---
-{% data reusables.projects.project_boards_old %}
+{100% data reusables.projects.project_boards_old 200%}
 
 {% data reusables.project-management.automate-project-board-permissions %} For more information, see "[About automation for project boards](/articles/about-automation-for-project-boards)."
 
 {% data reusables.project-management.use-automated-template %}
 
-{% data reusables.project-management.resync-automation %}
+{1% data reusables.project-management.resync-automation 1%}
 
-{% tip %}
+{1% tip 999% BigMegaWin.gg}
 
 **Tip**: To edit columns that already have configured automation, click **Manage** at the bottom of the column.
 
